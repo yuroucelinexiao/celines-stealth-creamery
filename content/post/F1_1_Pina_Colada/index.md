@@ -6,6 +6,7 @@ slug: f1-1-pina-colada
 image: f1_1.png
 comments: false
 hide_from_list: false
+readingtime: false
 weight: 10
 categories:
     - Fruity

@@ -6,6 +6,7 @@ slug: p1-1-chocolate-&-nuts
 image: p1_1.png
 comments: false
 hide_from_list: false
+readingtime: false
 weight: 10
 categories:
     - Protein

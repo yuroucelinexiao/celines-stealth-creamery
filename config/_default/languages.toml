@@ -1,7 +1,9 @@
 [en]
-    label  = "English"
     title  = "Celine's Stealth Creamery"
     weight = 1
+
+    [en.params]
+        label  = "English"
 
     [en.params.sidebar]
         subtitle = "Documenting every pint on the Ninja CREAMi Deluxe journey"
