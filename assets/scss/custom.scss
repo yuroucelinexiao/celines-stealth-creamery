@@ -1,4 +1,9 @@
 /* Swap the sidebar avatar in dark mode */
+[data-scheme="dark"] .site-avatar {
+    background: url('/celines-stealth-creamery/img/avatar-dark.png') center / cover no-repeat;
+    border-radius: 50%;
+}
+
 [data-scheme="dark"] .site-avatar img {
-    content: url('/celines-stealth-creamery/img/avatar-dark.png');
+    opacity: 0;
 }
