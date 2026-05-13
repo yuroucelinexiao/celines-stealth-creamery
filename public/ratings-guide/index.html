@@ -258,6 +258,8 @@
     .no-border-table table { margin: 0 auto; }
     .no-border-table tr, .no-border-table tr:nth-child(even) { background-color: transparent !important; }
     .no-border-table th { font-size: 1.25em !important; }
+    .half-star { position: relative; display: inline-block; }
+    .half-star::before { content: '★'; position: absolute; left: 0; width: 50%; overflow: hidden; }
 </style>
 <div class="no-border-table" align="center" style="margin: 0 auto;">
 <div class="table-wrapper"><table>
@@ -270,7 +272,7 @@
   <tbody>
       <tr>
           <td style="text-align: center"><span style="font-size: 1.5em;">★★★★★</span></td>
-          <td style="text-align: center">Heavenly decadence 🤤</td>
+          <td style="text-align: center">Heavenly decadence</td>
       </tr>
       <tr>
           <td style="text-align: center"><span style="font-size: 1.5em;">★★★★☆</span></td>
@@ -290,7 +292,7 @@
       </tr>
       <tr>
           <td style="text-align: center"><span style="font-size: 1.5em;">☆☆☆☆☆</span></td>
-          <td style="text-align: center">Inedible, straight to trash 🤮</td>
+          <td style="text-align: center">Inedible, straight to trash</td>
       </tr>
   </tbody>
 </table></div>
@@ -340,8 +342,8 @@ $$
 </div>
 <p>Deductions:</p>
 <ul>
-<li>minus ⯪ for &gt; 10g saturated fat</li>
-<li>minus ⯪ for &gt; 20g added sugars</li>
+<li>minus <span class="half-star">☆</span> for &gt; 10g saturated fat</li>
+<li>minus <span class="half-star">☆</span> for &gt; 20g added sugars</li>
 </ul>
 <h2 id="ease">Ease
 </h2><p>The ease of preparation.</p>

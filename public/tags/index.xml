@@ -18,10 +18,16 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/brown-sugar/</guid>
             <description></description>
         </item><item>
-            <title>Cocoa Powder</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/cocoa-powder/</link>
+            <title>Chocolate</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/chocolate/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/cocoa-powder/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/chocolate/</guid>
+            <description></description>
+        </item><item>
+            <title>Cocoa</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/cocoa/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/cocoa/</guid>
             <description></description>
         </item><item>
             <title>Ease-4</title>
@@ -42,10 +48,10 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/milk/</guid>
             <description></description>
         </item><item>
-            <title>Mixed Nuts</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/mixed-nuts/</link>
+            <title>Nuts</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/nuts/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/mixed-nuts/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/nuts/</guid>
             <description></description>
         </item><item>
             <title>Overall-4</title>
@@ -54,10 +60,10 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/overall-4/</guid>
             <description></description>
         </item><item>
-            <title>Peanut Butter Powder</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter-powder/</link>
+            <title>Peanut Butter</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter-powder/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter/</guid>
             <description></description>
         </item><item>
             <title>Salt</title>
@@ -78,10 +84,10 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-3.5/</guid>
             <description></description>
         </item><item>
-            <title>Whey Protein (Chocolate)</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/whey-protein-chocolate/</link>
+            <title>Whey Protein</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/whey-protein/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/whey-protein-chocolate/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/whey-protein/</guid>
             <description></description>
         </item><item>
             <title>Blueberry</title>

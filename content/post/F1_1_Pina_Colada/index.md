@@ -25,19 +25,6 @@ tags:
     - Overall-3
 toc: true
 ---
-## Overview
-
-The very very first pint! I love a good fruit smoothie and thought that I could test out the "Creamify Technology" by churning a frozen smoothie into ice cream. Turns out, it's not quite a 1:1 translation.
-
-**The Good (what went well):**
-- The texture was really smooth and creamy: Make sure the pint is fully frozen and push down the ice before re-spinning.
-
-**The Bad (lessons learned):**
-- The taste was very bland: Add more sugar and fat.
-- There was a slightly bitter after-taste: The bromelain inside pineapples breaks down milk proteins into bitter peptides. Either cook the pineapples, use canned pineapples, or use milk-alternatives.
-- No blueberry flavour: Yeah, that's my bad. I just really like blueberries, but it's really an odd ingredient in pina colada. Save the blueberries for smoothies.
-
-**Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
 
 <style>
     .no-border-table table, .no-border-table th, .no-border-table td { border: none !important; text-align: center !important; vertical-align: middle !important; }
@@ -65,10 +52,24 @@ The very very first pint! I love a good fruit smoothie and thought that I could 
 - Honey (1 tbsp)
 
 **Instructions:**
-- Blend everything together
-- Freeze for 24 hours
-- Spin on LITE ICE CREAM (push down and re-spin if needed)
+1. Blend everything together
+2. Freeze for 24 hours
+3. Spin on LITE ICE CREAM (push down and re-spin if needed)
 
 ## Nutrition Facts
 
 <img src="f1_1_nf.png" alt="Nutrition Facts for F1.1 Pina Colada" width="350" style="display: block; margin: 0 auto;" />
+
+## Reflections
+
+**Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
+
+The very very first pint! I love a good fruit smoothie and thought that I could test out the "Creamify Technology" by churning a frozen smoothie into ice cream. Turns out, it's not quite a 1:1 translation.
+
+**The Good (what went well):**
+- The texture was really smooth and creamy: Make sure the pint is fully frozen and push down the ice before re-spinning.
+
+**The Bad (lessons learned):**
+- The taste was very bland: Add more sugar and fat.
+- There was a slightly bitter after-taste: The bromelain inside pineapples breaks down milk proteins into bitter peptides. Either cook the pineapples, use canned pineapples, or use milk-alternatives.
+- No blueberry flavour: Yeah, that's my bad. I just really like blueberries, but it's really an odd ingredient in pina colada. Save the blueberries for smoothies.

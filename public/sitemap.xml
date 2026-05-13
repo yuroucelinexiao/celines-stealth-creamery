@@ -20,7 +20,10 @@
     <loc>http://localhost:1313/celines-stealth-creamery/categories/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/cocoa-powder/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/chocolate/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/cocoa/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/ease-4/</loc>
@@ -32,13 +35,13 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/milk/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/mixed-nuts/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/nuts/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/overall-4/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter-powder/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/post/</loc>
@@ -59,7 +62,7 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/taste-3.5/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/whey-protein-chocolate/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/whey-protein/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/blueberry/</loc>
