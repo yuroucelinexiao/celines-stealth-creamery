@@ -1,6 +1,7 @@
 [en]
     title  = "Celine's Stealth Creamery"
     weight = 1
+    languageCode = "en-us"
 
     [en.params]
         label  = "English"
