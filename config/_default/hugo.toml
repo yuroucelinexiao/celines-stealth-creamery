@@ -1,0 +1,16 @@
+baseURL                = "/"
+locale                 = "en-us"
+title                  = "Celine's Stealth Creamery"
+theme                  = "hugo-theme-stack"
+defaultContentLanguage = "en"
+hasCJKLanguage         = false
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
+[services.disqus]
+    shortname = "hugo-theme-stack"

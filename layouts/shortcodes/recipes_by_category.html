@@ -1,0 +1,43 @@
+<style>
+    .recipe-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.5rem;
+        list-style: none;
+        padding: 0;
+        margin-bottom: 2rem;
+    }
+    .recipe-card {
+        display: flex;
+        flex-direction: column;
+    }
+    @media (max-width: 768px) {
+        .recipe-grid {
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+    }
+</style>
+<div class="recipes-by-category">
+    {{ range $term, $taxonomy := site.Taxonomies.categories }}
+        <h3>{{ $term | humanize | title }}</h3>
+        <ul class="recipe-grid">
+            {{ range $taxonomy.Pages.ByWeight }}
+                {{ if not .Params.hide_from_list }}
+                    <li class="recipe-card">
+                        <a href="{{ .RelPermalink }}" style="display: block; margin-bottom: 0.5rem; text-align: center; font-weight: bold;">{{ .LinkTitle }}</a>
+                        {{ if .Params.image }}
+                            <a href="{{ .RelPermalink }}" style="display: block;">
+                                {{ $image := .Resources.GetMatch .Params.image }}
+                                {{ if $image }}
+                                    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" style="width: 100%; border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;" />
+                                {{ else }}
+                                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;" />
+                                {{ end }}
+                            </a>
+                        {{ end }}
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    {{ end }}
+</div>
