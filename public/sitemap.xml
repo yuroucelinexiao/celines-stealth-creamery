@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/celines-stealth-creamery/p/p1-1-chocolate--nuts/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/p/p1-1-chocolate-and-nuts/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/p/f1-1-pina-colada/</loc>
@@ -93,6 +93,8 @@
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/post/protein/</loc>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/ratings-guide/</loc>
   </url><url>
