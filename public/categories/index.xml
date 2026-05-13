@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Celine&#39;s Stealth Creamery</title>
-        <link>//localhost:1313/categories/</link>
+        <link>http://localhost:1313/celines-stealth-creamery/categories/</link>
         <description>Recent content in Categories on Celine&#39;s Stealth Creamery</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/celines-stealth-creamery/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Protein</title>
-            <link>//localhost:1313/categories/protein/</link>
+            <link>http://localhost:1313/celines-stealth-creamery/categories/protein/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-            <guid>//localhost:1313/categories/protein/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/categories/protein/</guid>
             <description></description>
         </item><item>
             <title>Fruity</title>
-            <link>//localhost:1313/categories/fruity/</link>
+            <link>http://localhost:1313/celines-stealth-creamery/categories/fruity/</link>
             <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-            <guid>//localhost:1313/categories/fruity/</guid>
+            <guid>http://localhost:1313/celines-stealth-creamery/categories/fruity/</guid>
             <description></description>
         </item></channel>
 </rss>

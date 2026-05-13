@@ -1,4 +1,4 @@
-baseURL                = "/"
+baseURL                = "https://yuroucelinexiao.github.io/celines-stealth-creamery/"
 locale                 = "en-us"
 title                  = "Celine's Stealth Creamery"
 theme                  = "hugo-theme-stack"
