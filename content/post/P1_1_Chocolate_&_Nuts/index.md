@@ -3,7 +3,7 @@ title: P1.1 Chocolate & Nuts
 description: Chocolate protein base with powdered peanut butter and mixed nuts for that extra crunch. Great texture and overall flavour, but the protein powder taste was still strong. Overall:★★★★☆
 date: 2026-05-12
 slug: p1-1-chocolate-&-nuts
-image: p1_1.png
+image: P1_1.png
 comments: false
 hide_from_list: false
 readingtime: false
@@ -41,7 +41,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em;">★★★★☆</span> | <span style="font-size: 1.5em;">★★★★☆</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | 
 
 </div>
 
@@ -65,7 +65,7 @@ toc: true
 
 ## Nutrition Facts
 
-<img src="p1_1_nf.png" alt="Nutrition Facts for P1.1 Chocolate & Nuts" width="350" style="display: block; margin: 0 auto;" />
+<img src="P1_1_nf.png" alt="Nutrition Facts for P1.1 Chocolate & Nuts" width="350" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 

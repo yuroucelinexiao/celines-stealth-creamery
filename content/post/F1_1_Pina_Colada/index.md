@@ -37,7 +37,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em;">★★☆☆☆</span> | <span style="font-size: 1.5em;">★★★☆☆</span> | <span style="font-size: 1.5em;">★★★★☆</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | 
 
 </div>
 
