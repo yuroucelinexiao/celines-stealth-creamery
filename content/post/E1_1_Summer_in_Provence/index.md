@@ -1,8 +1,8 @@
 ---
-title: E1.1 Summer in France
+title: E1.1 Summer in Provence
 description: Picture a warm, early summer with a gentle breeze. You're in the park, snacking on a spread of brie, fruits, nuts, and honey. A mama goose leads her goslings across the soft grass. Life feels intentional. Ice cream tastes so good. Overall:★★★☆☆
 date: 2026-05-14
-slug: e1-1-summer-in-france
+slug: e1-1-summer-in-provence
 image: e1_1.png
 comments: false
 hide_from_list: false
@@ -71,7 +71,7 @@ toc: true
 4. Once the mixture has fully cooled, add in the milk and lemon juice
 5. Blend until smooth
 6. Freeze for 24 hours
-7. Spin on LITE ICE CREAM (push down and re-spin if needed)
+7. Spin on LITE ICE CREAM
 8. Add in fig jam and nuts, spin on MIX-IN
 
 ## Nutrition Facts
