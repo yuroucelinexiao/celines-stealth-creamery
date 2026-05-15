@@ -22,7 +22,7 @@ tags:
     - Nuts
     - Spin-LITE ICE CREAM
     - Taste-3.5
-    - Macros-4
+    - Macros-5
     - Ease-4
     - Overall-4
 toc: true
@@ -41,7 +41,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★★</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | 
 
 </div>
 
@@ -65,7 +65,7 @@ toc: true
 
 ## Nutrition Facts
 
-<img src="P1_1_nf.png" alt="Nutrition Facts for P1.1 Chocolate & Nuts" width="350" style="display: block; margin: 0 auto;" />
+<img src="P1_1_nf.png" alt="Nutrition Facts for P1.1 Chocolate & Nuts" width="400" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 
@@ -79,3 +79,4 @@ What is more satisfying than hitting your protein goals in the form of ice cream
 
 **The Bad (lessons learned):**
 - Protein powder aftertaste: Add in stronger flavours (e.g. sweetner, cocoa, peanut butter) to mask the taste.
+- The powders stuck to the bottom of the pint: Pour in some liquids before powder.

@@ -58,7 +58,7 @@ toc: true
 
 ## Nutrition Facts
 
-<img src="f1_1_nf.png" alt="Nutrition Facts for F1.1 Pina Colada" width="350" style="display: block; margin: 0 auto;" />
+<img src="f1_1_nf.png" alt="Nutrition Facts for F1.1 Pina Colada" width="400" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 
