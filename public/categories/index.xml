@@ -23,5 +23,17 @@
             <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/categories/fruity/</guid>
             <description></description>
+        </item><item>
+            <title>Bakery</title>
+            <link>http://localhost:1313/celines-stealth-creamery/categories/bakery/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/categories/bakery/</guid>
+            <description></description>
+        </item><item>
+            <title>Cafe</title>
+            <link>http://localhost:1313/celines-stealth-creamery/categories/cafe/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/categories/cafe/</guid>
+            <description></description>
         </item></channel>
 </rss>

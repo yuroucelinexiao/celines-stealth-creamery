@@ -73,7 +73,7 @@ toc: true
 
 ## Nutrition Facts
 
-<img src="p1_2_nf.png" alt="Nutrition Facts for P1.2 Chocolate & Nuts" width="400" style="display: block; margin: 0 auto;" />
+<img src="p1_2_nf.png" alt="Nutrition Facts for P1.2 Monkey Choconutty" width="400" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 

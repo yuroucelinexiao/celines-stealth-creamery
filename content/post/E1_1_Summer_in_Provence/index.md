@@ -21,7 +21,8 @@ tags:
     - Brie
     - Milk
     - Lemon Juice
-    - Fig Jam
+    - Fig
+    - Fruit Spread
     - Nuts
     - Spin-LITE ICE CREAM
     - Taste-3.5
@@ -61,22 +62,22 @@ toc: true
 - Brie, diced (25 g)
 - Milk, 0% fat, ultra-filtered (1 cups)
 - Lemon juice (1 tbsp)
-- Fig jam (1 tbsp)
+- Fig fruit spread (1 tbsp)
 - Mixed nuts, crushed (20 g)
 
 **Instructions:**
 1. Cook the pear, dates, applesauce, honey, and salt on low heat until the pears are soft and the liquid has reduced (the mixture should be jammy)
-2. Add in the fish sauce and balsamic vinegar to the fruit mixture, continue simmering on low until the sauces have reduced (taste test: the acidity and fishiness should mellow out, and the sugars should concentrate into a salted-caramel-like profile)
+2. Add in the fish sauce and balsamic vinegar to the fruit mixture, continue simmering on low until the sauces have reduced (taste test: the acidity and fishiness should mellow out, and turn into a salted-caramel-like flavour)
 3. Remove the mixture from the heat, add and melt the brie
 4. Once the mixture has fully cooled, add in the milk and lemon juice
 5. Blend until smooth
 6. Freeze for 24 hours
 7. Spin on LITE ICE CREAM
-8. Add in fig jam and nuts, spin on MIX-IN
+8. Add in fig fruit spread and nuts, spin on MIX-IN
 
 ## Nutrition Facts
 
-<img src="e1_1_nf.png" alt="Nutrition Facts for P1.1 Chocolate & Nuts" width="400" style="display: block; margin: 0 auto;" />
+<img src="e1_1_nf.png" alt="Nutrition Facts for E1.1 Summer in Provence" width="400" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 
