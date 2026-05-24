@@ -60,7 +60,7 @@ toc: true
 - Salt (&frac18; tsp)
 - Monkfruit sweetner with allulose (1 tsp)
 - Vanilla extract, pure (1 tsp)
-- Milk, 0% fat, ultra-filtered (1.5 cups)
+- Milk, 0% fat, ultra-filtered (1 &frac12; cups)
 - Greek yogurt, nonfat, plain (&frac12; cup / 115 g)
 - Cottage cheese, lowfat 2% milkfat, small curd (&frac12; cup / 119 g)
 - Lotus Biscoff cookies (2 cookies)
@@ -69,10 +69,10 @@ toc: true
 
 **Instructions:**
 1. Blend everything except half of the fruit spread, Lotus Biscoff cookies, lime, and fresh strawberries together.
-2. Freeze for 24 hours
-3. Spin on LITE ICE CREAM
-4. Squeeze in the lime juice, and add the other half of the fruit spread and the Lotus Biscoff cookies (broken into halves), spin on MIX-IN
-6. Top with lime zest and fresh strawberries
+2. Freeze for 24 hours.
+3. Spin on LITE ICE CREAM.
+4. Squeeze in the lime juice, and add the other half of the fruit spread and the Lotus Biscoff cookies (broken into halves), spin on MIX-IN.
+6. Top with lime zest and fresh strawberries.
 
 ## Nutrition Facts
 
@@ -81,6 +81,8 @@ toc: true
 ## Reflections
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
+
+Wow, I'm genuinely impressed by how the flavours came together! I wanted to get a little fancy with the fresh strawberries and lime zest, and it was definitely worth the effort. Fragrant, fresh, sweet, tangy, and rich, this pint perfectly captures the essence of a decadent slice of cheesecake.
 
 **The Good (what went well):**
 - Fresh strawberries are so good: In general, fresh fruits are a great way to add volume, flavour, and fiber into an icy dessert.

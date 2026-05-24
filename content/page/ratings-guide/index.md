@@ -75,7 +75,7 @@ The ease of preparation.
 | <span style="font-size: 1.5em;">★★★★☆</span> | Blending all ingredients |
 | <span style="font-size: 1.5em;">★★★☆☆</span> | Hot water or microwave for steeping, dissolving, or melting </br> Extra prep such as air-frying, dicing, zesting, or grating |
 | <span style="font-size: 1.5em;">★★☆☆☆</span> | Stovetop for cooking, thickening, or reducing |
-| <span style="font-size: 1.5em;">★☆☆☆☆</span> | Complex multi-stage preparation including overnight |
+| <span style="font-size: 1.5em;">★☆☆☆☆</span> | Complex multi-stage preparation |
 | <span style="font-size: 1.5em;">☆☆☆☆☆</span> | Specialized equipment or dangerous handling |
 
 </div>

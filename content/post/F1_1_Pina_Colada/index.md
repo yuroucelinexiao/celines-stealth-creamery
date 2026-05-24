@@ -52,9 +52,9 @@ toc: true
 - Honey (1 tbsp)
 
 **Instructions:**
-1. Blend everything together
-2. Freeze for 24 hours
-3. Spin on LITE ICE CREAM (push down and re-spin if needed)
+1. Blend everything together.
+2. Freeze for 24 hours.
+3. Spin on LITE ICE CREAM (push down and re-spin if needed).
 
 ## Nutrition Facts
 

@@ -1,7 +1,7 @@
 ---
 title: P1.3 Monkey Choconutty
-description: summary. Overall:★★★★☆
-date: 2026-05-18
+description: Chocolate protein base with powdered peanut butter, pistachio instant pudding, and carmelized banana for a little toasty sweetness. A little extra protein to push the boundaries of the macros. Overall:★★★★☆
+date: 2026-05-24
 slug: p1-3-monkey-choconutty
 image: p1_3.png
 comments: false
@@ -65,11 +65,11 @@ toc: true
 - Mixed nuts, crushed (20g)
 
 **Instructions:**
-1. Slice the banana length-wise and air fry at 390 &deg;F for 15 minutes
-2. Blend everything except nuts together
-3. Freeze for 24 hours
-4. Spin on LITE ICE CREAM (push down and re-spin if needed)
-5. Add in nuts and spin on MIX-IN
+1. Slice the banana length-wise and air fry at 390 &deg;F for 15 minutes.
+2. Blend everything except nuts together.
+3. Freeze for 24 hours.
+4. Spin on LITE ICE CREAM (push down and re-spin if needed).
+5. Add in nuts and spin on MIX-IN.
 
 ## Nutrition Facts
 
@@ -81,9 +81,7 @@ toc: true
 
 
 **The Good (what went well):**
-- Mixing after 6 hours of freezing since the foam rises and powders settle
-- Extra cocoa powder and carmelized banana added rich flavour
-
+- The protein powder taste was well masked: Extra cocoa powder and carmelized banana added rich flavours.
 
 **The Bad (lessons learned):**
-- Immersion blender makes a lot of bubbles: tap and wait
+- Blending makes a lot of bubbles and a bump in the center of the pint after freezing: Tap the pint to release the bubbles, let the mixture cool before freezing, and stir the pint after freezing for some time (~6 hrs).
