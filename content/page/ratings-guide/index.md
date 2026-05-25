@@ -79,3 +79,13 @@ The ease of preparation.
 | <span style="font-size: 1.5em;">☆☆☆☆☆</span> | Specialized equipment or dangerous handling |
 
 </div>
+
+## Overall
+
+It tastes so good, I want a double-scoop. Rounded to the nearest star.
+
+<div align="center" style="margin: 3em auto;">
+$$
+\text{Overall} = \frac{\text{Taste} \times 2 + \text{Macros} + \text{Ease}}{4}
+$$
+</div>

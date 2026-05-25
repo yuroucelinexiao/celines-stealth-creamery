@@ -66,10 +66,10 @@ toc: true
 - Mixed nuts, crushed (20g)
 
 **Instructions:**
-1. Blend everything except nuts together
-2. Freeze for 24 hours
-3. Spin on LITE ICE CREAM
-4. Add in nuts and spin on MIX-IN
+1. Blend everything except nuts together.
+2. Freeze for 24 hours.
+3. Spin on LITE ICE CREAM.
+4. Add in nuts and spin on MIX-IN.
 
 ## Nutrition Facts
 

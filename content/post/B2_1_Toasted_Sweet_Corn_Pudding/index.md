@@ -1,7 +1,7 @@
 ---
 title: B2.1 Toasted Sweet Corn Pudding
 description: It's corn🌽! It has the juice! It's corn season and we couldn't resist. Leaning into traditional Asian dessert flavours, this pint combines sweet corn toasted in butter with soft tofu pudding. Overall:★★★☆☆
-date: 2026-05-24
+date: 2026-05-23
 slug: b2-1-toasted-sweet-corn-pudding
 image: b2_1.png
 comments: false
@@ -61,7 +61,7 @@ toc: true
 - Soft tofu (125 g)
 - Egg yolk (2 yolks)
 - Monkfruit sweetner with allulose (&frac14; cup)
-- Xanthan gum (&frac12; tsp)
+- Xanthan gum (&frac14; tsp)
 - Lemon juice (2 tsp)
 - Vanilla extract, pure (1 tsp)
 
@@ -70,11 +70,11 @@ toc: true
 2. Melt the butter in a small pot over medium heat until foaming.
 3. Add the sweet corn kernels, scrapings, salt, and cinnamon. Saute for 5 minutes.
 4. Pour in the milk and simmer for 15 minutes on low heat.
-5. Remove the mixture from heat. Add soft tofu, egg yolks, sweetner, and xanthan gum. Blend everything together.
+5. Remove the mixture from heat. Add soft tofu, egg yolks, sweetner, and xanthan gum. Blend until smooth.
 6. Bring the mixture back onto low heat. Stir contantly while scraping the bottom until the mixture thickens.
 7. Remove the mixture from heat. Add in lemon juice and vanilla extract. Stir to mix.
 8. Freeze for 24 hours.
-9. Spin on LITE ICE CREAM  (push down and re-spin with a splash of milk if needed).
+9. Spin on LITE ICE CREAM (push down and re-spin with a splash of milk if needed).
 
 ## Nutrition Facts
 
