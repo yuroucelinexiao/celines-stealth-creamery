@@ -71,7 +71,8 @@ toc: true
 2. Blend everything except lemon juice together.
 3. Stir in the lemon juice.
 4. Freeze for 24 hours.
-5. Spin on LITE ICE CREAM (push down and re-spin with a splash of milk if needed).
+5. Spin on ICE CREAM.
+6. Push down and re-spin with a splash of milk.
 
 ## Nutrition Facts
 
@@ -88,5 +89,5 @@ Inspired by black sesame glutinuous rice balls (tangyuan), this recipe went heav
 
 **The Bad (lessons learned):**
 - The texture was gummy: The xanthan gum was too much. This recipe probably doesn't need it.
-- Too beany and not enough nutty: Tofu synergizes with grassy and starchy foods (e.g., corn, sweet potato, matcha, red bean) and not so much with roasted and fermented foods (e.g., sesame, coffee, caramel). In an attempt to boost the nuttiness with almond extract, I went a little overboard with it and the aftertaste became slightly bitter. No tofu or almond extract next time.
+- Too beany and not enough nutty: Tofu synergizes with grassy and starchy foods (e.g., corn, sweet potato, red bean) and not so much with roasted and fermented foods (e.g., sesame, coffee, caramel). In an attempt to boost the nuttiness with almond extract, I went a little overboard with it and the aftertaste became slightly bitter. No tofu or almond extract next time.
 - The acidity was too bright: Lemon juice is quite powerful. Use something more subtle like rice vinegar.

@@ -5,7 +5,7 @@ date: 2026-05-16
 slug: p1-2-monkey-choconutty
 image: p1_2.png
 comments: false
-hide_from_list: false
+hide_from_list: true
 readingtime: false
 weight: 10
 categories:
