@@ -1,6 +1,6 @@
 ---
 title: B4.1 Ube Coconut
-description: Inspired by halo-halo from the Filippines, this ube coconut recipe uses purple sweet potatoes to bring the vibrant purple color and sweet roasted base. The flavour was phenonmenal! The texture was too thick and could be a bit creamier.  Overall:★★★☆☆
+description: Inspired by halo-halo from the Filippines, this ube coconut recipe uses purple sweet potatoes to bring the vibrant purple color and sweet roasted base. The flavour was phenonmenal!  Overall:★★★☆☆
 date: 2026-06-03
 slug: b4-1-ube-coconut
 image: b4_1.png
@@ -25,6 +25,7 @@ tags:
     - Macros-1.5
     - Ease-3
     - Overall-3
+    - Zebby's Pick
 toc: true
 ---
 
@@ -41,7 +42,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★<span class="half-star">☆</span>☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★★★<span class="half-star">☆</span></span> | <span style="font-size: 1.5em; white-space: nowrap;">★<span class="half-star">☆</span>☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | 
 
 </div>
 
@@ -69,11 +70,11 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
 
-Okay, first things first, purple sweet potato and ube are not the same thing! Ube grows on a vine and has bark-like skin while sweet potatoes are tubers that grow underground. However, I think this was a really close attempt! The rich, roasted, starchy undertones of the sweet potato was suprisingly comforting.
+Okay, first things first, purple sweet potato and ube are not the same thing! Ube grows on a vine and has bark-like skin while sweet potatoes are tubers that grow underground. However, I think this was a really close attempt! Another one for Zebby's Pick. The rich, roasted, starchy undertones of the sweet potato was suprisingly comforting.
 
 **The Good (what went well):**
 - Vanilla: Brought a subtle sweetness that mimicked the natural fragrance of ube.
 - Classic coconut pairing: Need I say more? Coconut milk immediately brings the tropical vibes.
 
 **The Bad (lessons learned):**
-- Gummy texture: Sweet potatoes are quite starchy. Microwaving heats up too fast and doesn't give time for naturally occurring enzymes (amylases) to break down starches into sugars. Bake/roast the sweet potato next time and use less of it. Also mix/blend gently to avoid overworking the starches.
+- Thick pudding-like texture: Sweet potatoes are quite starchy. Microwaving heats up too fast and doesn't give time for naturally occurring enzymes (amylases) to break down starches into sugars. Bake/roast the sweet potato next time and use less of it. Also mix/blend gently to avoid overworking the starches.

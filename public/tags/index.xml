@@ -126,6 +126,12 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/black-sesame/</guid>
             <description></description>
         </item><item>
+            <title>Coconut</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/coconut/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/coconut/</guid>
+            <description></description>
+        </item><item>
             <title>Honey</title>
             <link>http://localhost:1313/celines-stealth-creamery/tags/honey/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
@@ -138,6 +144,12 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/lemon-juice/</guid>
             <description></description>
         </item><item>
+            <title>Macros-1.5</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/macros-1.5/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/macros-1.5/</guid>
+            <description></description>
+        </item><item>
             <title>Macros-3</title>
             <link>http://localhost:1313/celines-stealth-creamery/tags/macros-3/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
@@ -148,6 +160,12 @@
             <link>http://localhost:1313/celines-stealth-creamery/tags/overall-3/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/tags/overall-3/</guid>
+            <description></description>
+        </item><item>
+            <title>Purple Sweet Potato</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/purple-sweet-potato/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/purple-sweet-potato/</guid>
             <description></description>
         </item><item>
             <title>Sesame Oil</title>
@@ -174,6 +192,18 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-3/</guid>
             <description></description>
         </item><item>
+            <title>Taste-4</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/taste-4/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-4/</guid>
+            <description></description>
+        </item><item>
+            <title>Ube</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/ube/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/ube/</guid>
+            <description></description>
+        </item><item>
             <title>White Miso</title>
             <link>http://localhost:1313/celines-stealth-creamery/tags/white-miso/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
@@ -184,6 +214,12 @@
             <link>http://localhost:1313/celines-stealth-creamery/tags/xanthan-gum/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/tags/xanthan-gum/</guid>
+            <description></description>
+        </item><item>
+            <title>Zebby&#39;s Pick</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/zebbys-pick/</link>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/zebbys-pick/</guid>
             <description></description>
         </item><item>
             <title>Butter</title>
@@ -220,18 +256,6 @@
             <link>http://localhost:1313/celines-stealth-creamery/tags/sweet-corn/</link>
             <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/tags/sweet-corn/</guid>
-            <description></description>
-        </item><item>
-            <title>Taste-4</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/taste-4/</link>
-            <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-4/</guid>
-            <description></description>
-        </item><item>
-            <title>Zebby&#39;s Pick</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/zebbys-pick/</link>
-            <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/zebbys-pick/</guid>
             <description></description>
         </item><item>
             <title>Celine&#39;s Choice</title>
@@ -358,12 +382,6 @@
             <link>http://localhost:1313/celines-stealth-creamery/tags/blueberry/</link>
             <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/tags/blueberry/</guid>
-            <description></description>
-        </item><item>
-            <title>Coconut</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/coconut/</link>
-            <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/coconut/</guid>
             <description></description>
         </item><item>
             <title>Melona</title>
