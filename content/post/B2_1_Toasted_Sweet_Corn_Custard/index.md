@@ -1,8 +1,8 @@
 ---
-title: B2.1 Toasted Sweet Corn Pudding
-description: It's corn🌽! It has the juice! It's corn season and we couldn't resist. Leaning into traditional Asian dessert flavours, this pint combines sweet corn toasted in butter with soft tofu pudding. Overall:★★★☆☆
+title: B2.1 Toasted Sweet Corn Custard
+description: It's corn🌽! It has the juice! It's corn season and we couldn't resist. Leaning into traditional Asian dessert flavours, this pint combines sweet corn toasted in butter with egg yolks and soft tofu for a creamy custard texture. Overall:★★★☆☆
 date: 2026-05-23
-slug: b2-1-toasted-sweet-corn-pudding
+slug: b2-1-toasted-sweet-corn-custard
 image: b2_1.png
 comments: false
 hide_from_list: false
@@ -78,7 +78,7 @@ toc: true
 
 ## Nutrition Facts
 
-<img src="b2_1_nf.png" alt="Nutrition Facts for B2.1 Toasted Sweet Corn Pudding" width="400" style="display: block; margin: 0 auto;" />
+<img src="b2_1_nf.png" alt="Nutrition Facts for B2.1 Toasted Sweet Corn Custard" width="400" style="display: block; margin: 0 auto;" />
 
 ## Reflections
 

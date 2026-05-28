@@ -234,6 +234,12 @@
             <guid>http://localhost:1313/celines-stealth-creamery/tags/zebbys-pick/</guid>
             <description></description>
         </item><item>
+            <title>Celine&#39;s Choice</title>
+            <link>http://localhost:1313/celines-stealth-creamery/tags/celines-choice/</link>
+            <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/tags/celines-choice/</guid>
+            <description></description>
+        </item><item>
             <title>Cheesecake</title>
             <link>http://localhost:1313/celines-stealth-creamery/tags/cheesecake/</link>
             <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
@@ -376,18 +382,6 @@
             <link>http://localhost:1313/celines-stealth-creamery/tags/taste-2/</link>
             <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-2/</guid>
-            <description></description>
-        </item><item>
-            <title>Overall-</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/overall-/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/overall-/</guid>
-            <description></description>
-        </item><item>
-            <title>Taste-</title>
-            <link>http://localhost:1313/celines-stealth-creamery/tags/taste-/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/tags/taste-/</guid>
             <description></description>
         </item></channel>
 </rss>

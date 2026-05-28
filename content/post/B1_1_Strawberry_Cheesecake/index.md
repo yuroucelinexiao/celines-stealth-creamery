@@ -31,6 +31,7 @@ tags:
     - Macros-3.5
     - Ease-3
     - Overall-3
+    - Celine's Choice
 toc: true
 ---
 
@@ -82,7 +83,7 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
 
-Wow, I'm genuinely impressed by how the flavours came together! I wanted to get a little fancy with the fresh strawberries and lime zest, and it was definitely worth the effort. Fragrant, fresh, sweet, tangy, and rich, this pint perfectly captures the essence of a decadent slice of cheesecake.
+Wow, I'm genuinely impressed by how the flavours came together! I wanted to get a little fancy with the fresh strawberries and lime zest, and it was definitely worth the effort. Fragrant, fresh, sweet, tangy, and rich, this pint perfectly captures the essence of a decadent slice of cheesecake. First recipe to make Celine's Choice!
 
 **The Good (what went well):**
 - Fresh strawberries are so good: In general, fresh fruits are a great way to add volume, flavour, and fiber into an icy dessert.
