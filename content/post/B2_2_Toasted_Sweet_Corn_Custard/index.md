@@ -1,7 +1,7 @@
 ---
 title: B2.2 Toasted Sweet Corn Custard
 description: Sweet corn toasted in butter and cinnamon. This fun recipe tasted a bit like Cinnamon Toast Crunch X Frosted Flakes. Overall:★★★☆☆
-date: 2026-06-10
+date: 2026-06-07
 slug: b2-2-toasted-sweet-corn-custard
 image: b2_2.png
 comments: false
