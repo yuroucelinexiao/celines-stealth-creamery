@@ -1,6 +1,6 @@
 ---
 title: P1.1 Monkey Choconutty
-description: Chocolate protein base with powdered peanut butter and mixed nuts for that extra crunch. Great texture and overall flavour, but the protein powder taste was still strong. Overall:★★★★☆
+description: Chocolate protein base with powdered peanut butter and mixed nuts for that extra crunch. Great texture and overall flavour, but the protein powder taste was still strong. Taste:★★★⯪☆
 date: 2026-05-12
 slug: p1-1-monkey-choconutty
 image: p1_1.png

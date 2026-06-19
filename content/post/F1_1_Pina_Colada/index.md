@@ -1,6 +1,6 @@
 ---
 title: F1.1 Pina Colada
-description: Pina colada 🍍🥥 with blueberry and banana? Amazing smoothie, very mid ice cream. Would not make again. Overall:★★★☆☆
+description: Pina colada 🍍🥥 with blueberry and banana? Amazing smoothie, very mid ice cream. Would not make again. Taste:★★☆☆☆
 date: 2026-05-10
 slug: f1-1-pina-colada
 image: f1_1.png
