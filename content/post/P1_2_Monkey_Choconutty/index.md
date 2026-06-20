@@ -1,6 +1,6 @@
 ---
 title: P1.2 Monkey Choconutty
-description: Chocolate protein base with powdered peanut butter, pistachio instant pudding, and banana. Some Greek yogurt was added for texture and protein, but the tangy flavours clashed with the richness of the chocolate (definitely a skill issue). Overall:★★★★☆
+description: Chocolate protein base with powdered peanut butter, pistachio instant pudding, and banana. Some Greek yogurt was added for texture and protein, but the tangy flavours clashed with the richness of the chocolate (definitely a skill issue). Taste - 3.5/5★
 date: 2026-05-16
 slug: p1-2-monkey-choconutty
 image: p1_2.png

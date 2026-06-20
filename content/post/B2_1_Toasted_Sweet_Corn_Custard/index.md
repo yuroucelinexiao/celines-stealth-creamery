@@ -1,6 +1,6 @@
 ---
 title: B2.1 Toasted Sweet Corn Custard
-description: It's corn🌽! It has the juice! It's corn season and we couldn't resist. Leaning into traditional Asian dessert flavours, this pint combines sweet corn toasted in butter with egg yolks and soft tofu for a creamy custard texture. Overall:★★★☆☆
+description: It's corn🌽! It has the juice! It's corn season and we couldn't resist. Leaning into traditional Asian dessert flavours, this pint combines sweet corn toasted in butter with egg yolks and silken tofu for a creamy custard texture. Taste - 4/5★
 date: 2026-05-23
 slug: b2-1-toasted-sweet-corn-custard
 image: b2_1.png
@@ -17,7 +17,7 @@ tags:
     - Salt
     - Cinnamon
     - Milk
-    - Soft Tofu
+    - Silken Tofu
     - Egg Yolk
     - Monkfruit Sweetner
     - Allulose
@@ -58,7 +58,7 @@ toc: true
 - Salt (&frac14; tsp)
 - Cinnamon (1 tsp)
 - Milk, 0% fat, ultra-filtered (1 &frac23; cups)
-- Soft tofu (125 g)
+- Silken tofu (125 g)
 - Egg yolk (2 yolks)
 - Monkfruit sweetner with allulose (&frac14; cup)
 - Xanthan gum (&frac14; tsp)

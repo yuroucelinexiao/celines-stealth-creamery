@@ -1,6 +1,6 @@
 ---
 title: P1.3 Monkey Choconutty
-description: Chocolate protein base with powdered peanut butter, pistachio instant pudding, and carmelized banana for a little toasty sweetness. A little extra protein to push the boundaries of the macros. Overall:★★★★☆
+description: Chocolate protein base with powdered peanut butter, pistachio instant pudding, and carmelized banana for a little toasty sweetness. A little extra protein to push the boundaries of the macros. Taste - 3.5/5★
 date: 2026-05-28
 slug: p1-3-monkey-choconutty
 image: p1_3.png

@@ -1,8 +1,8 @@
 ---
 title: F2.1 Mango Pineapple Sorbet
-description: Super easy two ingredient sorbet 🥭🍍. Refreshing and tasty, just in time for summer. Overall:★★★☆☆
+description: Super easy two ingredient sorbet 🥭🍍. Refreshing and tasty, just in time for summer. Taste-/5★
 date: 2026-06-18
-slug: f2-1-pina-colada
+slug: f2-1-mango-pineapple-sorbet
 image: f2_1.png
 comments: false
 draft: true
@@ -16,7 +16,7 @@ tags:
     - Pineapple
     - Spin-SORBET
     - Taste-
-    - Macros-
+    - Macros-1
     - Ease-5
     - Overall-
 toc: true
@@ -33,7 +33,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em; white-space: nowrap;">★★☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★★</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★☆☆☆☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★★</span> | 
 
 </div>
 

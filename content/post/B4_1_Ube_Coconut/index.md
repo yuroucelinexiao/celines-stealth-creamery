@@ -1,6 +1,6 @@
 ---
 title: B4.1 Ube Coconut
-description: Inspired by halo-halo from the Filippines, this ube coconut recipe uses purple sweet potatoes to bring the vibrant purple color and sweet roasted base. The flavour was phenonmenal!  Overall:★★★☆☆
+description: Inspired by halo-halo from the Filippines, this ube coconut recipe uses purple sweet potatoes to bring the vibrant purple color and sweet roasted base. The flavour was phenonmenal!  Taste - 4.5/5★
 date: 2026-06-03
 slug: b4-1-ube-coconut
 image: b4_1.png

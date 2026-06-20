@@ -1,6 +1,6 @@
 ---
 title: E1.1 Summer in Provence
-description: Picture a warm, early summer with a gentle breeze. You're in the park, snacking on a spread of brie, fruits, nuts, and honey. A mama goose leads her goslings across the soft grass. Life feels intentional. Ice cream tastes so good. Overall:★★★☆☆
+description: Picture a warm, early summer with a gentle breeze. You're in the park, snacking on a spread of brie, fruits, nuts, and honey. A mama goose leads her goslings across the soft grass. Life feels intentional. Ice cream tastes so good. Taste - 3.5/5★
 date: 2026-05-14
 slug: e1-1-summer-in-provence
 image: e1_1.png

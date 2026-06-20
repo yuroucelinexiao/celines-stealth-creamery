@@ -1,6 +1,6 @@
 ---
 title: B3.1 Roasted Black Sesame
-description: I have mixed feelings about this one. The roasted sesame flavour and aroma was amazing, but it had a gummy texture and wet-earth 🌱 aftertaste. The concept was good but execution was poor. Improvements to come.  Overall:★★★☆☆
+description: I have mixed feelings about this one. The roasted sesame flavour and aroma was amazing, but it had a gummy texture and wet-earth 🌱 aftertaste. The concept was good but execution was poor. Improvements to come.  Taste - 3/5★
 date: 2026-05-25
 slug: b3-1-toasted-sweet-corn-pudding
 image: b3_1.png
@@ -15,7 +15,7 @@ tags:
     - Black Sesame
     - Milk
     - White Miso
-    - Soft Tofu
+    - Silken Tofu
     - Sesame Oil
     - Almond Extract
     - Salt
@@ -56,7 +56,7 @@ toc: true
 - Sesame seeds, black, roasted (60 g)
 - Milk, 0% fat, ultra-filtered (1 &frac12; cups)
 - Miso, white, reduced-sodium (2 tsp)
-- Soft tofu (150 g)
+- Silken tofu (150 g)
 - Sesame oil (&frac12; tsp)
 - Almond Extract (&frac14; tsp)
 - Salt (&frac18; tsp)

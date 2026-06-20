@@ -1,6 +1,6 @@
 ---
 title: B1.1 Strawberry Cheesecake
-description: I love a good cheesecake that perfectly balances a tangy, sweet filling with a buttery, crumbly crust. This recipe satisfied that cheesecake craving, and I could have happily eaten the whole pint. Overall:★★★☆☆
+description: I love a good cheesecake that perfectly balances a tangy, sweet filling with a buttery, crumbly crust. This recipe satisfied that cheesecake craving, and I could have happily eaten the whole pint. Taste - 4/5★
 date: 2026-05-18
 slug: b1-1-strawberry-cheesecake
 image: b1_1.png
@@ -14,7 +14,7 @@ categories:
 tags:
     - Fruit Spread 
     - Strawberry 
-    - Guave
+    - Guava
     - Lime
     - Instant Pudding
     - Cheesecake
@@ -27,10 +27,10 @@ tags:
     - Cottage Cheese
     - Lotus Biscoff
     - Spin-LITE ICE CREAM
-    - Taste-3.5
+    - Taste-4
     - Macros-3.5
     - Ease-3
-    - Overall-3
+    - Overall-4
     - Celine's Choice
 toc: true
 ---
@@ -48,7 +48,7 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | 
+| <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★<span class="half-star">☆</span>☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★☆☆</span> | 
 
 </div>
 
@@ -81,7 +81,7 @@ toc: true
 
 ## Reflections
 
-**Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
+**Overall Rating:** <span style="font-size: 1.5em;">★★★★☆</span>
 
 Wow, I'm genuinely impressed by how the flavours came together! I wanted to get a little fancy with the fresh strawberries and lime zest, and it was definitely worth the effort. Fragrant, fresh, sweet, tangy, and rich, this pint perfectly captures the essence of a decadent slice of cheesecake. First recipe to make Celine's Choice!
 
