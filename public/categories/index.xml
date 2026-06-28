@@ -5,7 +5,13 @@
         <description>Recent content in Categories on Celine&#39;s Stealth Creamery</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/celines-stealth-creamery/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/celines-stealth-creamery/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Bakery</title>
+            <link>http://localhost:1313/celines-stealth-creamery/categories/bakery/</link>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/celines-stealth-creamery/categories/bakery/</guid>
+            <description></description>
+        </item><item>
             <title>Explorations</title>
             <link>http://localhost:1313/celines-stealth-creamery/categories/explorations/</link>
             <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
@@ -22,12 +28,6 @@
             <link>http://localhost:1313/celines-stealth-creamery/categories/cafe/</link>
             <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/celines-stealth-creamery/categories/cafe/</guid>
-            <description></description>
-        </item><item>
-            <title>Bakery</title>
-            <link>http://localhost:1313/celines-stealth-creamery/categories/bakery/</link>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/celines-stealth-creamery/categories/bakery/</guid>
             <description></description>
         </item><item>
             <title>Protein</title>

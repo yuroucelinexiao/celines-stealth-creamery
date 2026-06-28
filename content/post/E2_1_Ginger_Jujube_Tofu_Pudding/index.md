@@ -26,6 +26,7 @@ tags:
     - Ease-2
     - Overall-4
     - Celine's Choice
+    - Mum Approved
 toc: true
 ---
 
@@ -60,7 +61,7 @@ toc: true
 **Instructions:**
 1. Slice 50 g of fresh ginger into coins, peeling optional.
 2. Halve the jujube dates and remove the pit.
-3. Steep the ginger, jujube dates, and brown sugar in soy beverage over medium heat for 15 minutes.
+3. Steep the ginger, jujube dates, and brown sugar in soy beverage over medium heat for ~15 minutes.
 4. Remove the ginger and let the mixture cool.
 5. Add in 15 g of grated fresh ginger, silken tofu, miso, and sweetner. Blend until smooth.
 6. Freeze for 24 hours.
@@ -75,7 +76,7 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★★☆</span>
 
-Brown sugar ginger tofu pudding (douhua) is a beloved traditional Chinese dessert. Add in some jujube dates, and you've got a legendary Traditional Chinese Medicine trio. It's warm, sharp, sweet, and definitely making Celine's Choice. The silken tofu and soy milk provides a rich base and great macros. 
+Brown sugar ginger tofu pudding (douhua) is a beloved traditional Chinese dessert. Add in some jujube dates, and you've got a legendary Traditional Chinese Medicine trio. It's warm, sharp, sweet, and definitely making Celine's Choice. The silken tofu and soy milk provides a rich base and great macros. Mum tried it and she liked it.
 
 **The Good (what went well):**
 - The flavour's got layers: There's an immediate floral sweetness from the jujube dates and brown sugar, followed by a deeper savoury warmth from the white miso. Finally, the ginger kicks in at the end.

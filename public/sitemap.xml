@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/celines-stealth-creamery/p/b5-1-pistachio-cloud/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/p/e2-1-ginger-jujube-tofu-pudding/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,15 +45,57 @@
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/allulose/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/brown-sugar/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/celines-stealth-creamery/categories/bakery/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/categories/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/cottage-cheese/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/ease-4/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/instant-pudding/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/macros-4/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/milk/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/monkfruit-sweetner/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/overall-4/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/pistachio/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/post/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/spin-lite-ice-cream/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/taste-3.5/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/white-miso/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/brown-sugar/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/celines-choice/</loc>
@@ -68,16 +113,7 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/jujube-dates/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/macros-4/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/monkfruit-sweetner/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/overall-4/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/post/</loc>
+    <loc>http://localhost:1313/celines-stealth-creamery/tags/mum-approved/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/silken-tofu/</loc>
@@ -86,16 +122,7 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/soy-milk/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/spin-lite-ice-cream/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/taste-4/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/white-miso/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/ease-5/</loc>
@@ -119,13 +146,7 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/spin-sorbet/</loc>
     <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/taste-3.5/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/categories/cafe/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/ease-4/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/honey/</loc>
@@ -135,9 +156,6 @@
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/matcha/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/milk/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/overall-5/</loc>
@@ -154,9 +172,6 @@
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/xanthan-gum/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/categories/bakery/</loc>
-    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/butter/</loc>
     <lastmod>2026-06-07T00:00:00+00:00</lastmod>
@@ -206,16 +221,10 @@
     <loc>http://localhost:1313/celines-stealth-creamery/tags/cocoa/</loc>
     <lastmod>2026-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/instant-pudding/</loc>
-    <lastmod>2026-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/nuts/</loc>
     <lastmod>2026-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/peanut-butter/</loc>
-    <lastmod>2026-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/pistachio/</loc>
     <lastmod>2026-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/categories/protein/</loc>
@@ -243,9 +252,6 @@
     <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/cheesecake/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/celines-stealth-creamery/tags/cottage-cheese/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/celines-stealth-creamery/tags/fruit-spread/</loc>
