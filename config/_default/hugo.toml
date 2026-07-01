@@ -5,6 +5,10 @@ theme                  = "hugo-theme-stack"
 defaultContentLanguage = "en"
 hasCJKLanguage         = false
 
+[params]
+    # Tell the theme to load your custom CSS
+    customCSS = ["css/custom.css"]
+
 [pagination]
     pagerSize = 10
 

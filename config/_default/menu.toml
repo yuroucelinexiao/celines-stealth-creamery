@@ -1,1 +1,7 @@
+[[social]]
+    identifier = "instagram"
+    name       = "instagram"
+    url        = "https://www.instagram.com/stealthcreamery/"
 
+    [social.params]
+        icon = "instagram"
