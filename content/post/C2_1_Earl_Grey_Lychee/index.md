@@ -1,11 +1,11 @@
 ---
 title: C2.1 Earl Grey Lychee
-description: Taste - /5★
-date: 2026-06-23
+description: Fresh lychees just in time for the summer! Paired with steeped Earl Grey tea, it's very reminiscent of a walk in the park with my favourite bubble tea in hand. Taste - 4/5★
+date: 2026-07-03
 slug: c2-1-earl-grey-lychee
 image: c2_1.png
 comments: false
-draft: true
+draft: false
 hide_from_list: false
 readingtime: false
 weight: 10
@@ -20,12 +20,11 @@ tags:
     - Allulose
     - Xanthan Gum
     - Lemon Juice
-    - Granola
-    - Spin-LITE ICE CREAM
-    - Taste-
+    - Spin-ICE CREAM
+    - Taste-4
     - Macros-4
-    - Ease-2
-    - Overall-
+    - Ease-4
+    - Overall-4
 toc: true
 ---
 
@@ -42,29 +41,26 @@ toc: true
 
 | **Taste** | **Macros** | **Ease** |
 | :---: | :---: | :---: |
-| <span style="font-size: 1.5em; white-space: nowrap;">★★★★<span class="half-star">☆</span></span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★☆☆☆</span> | 
-
+| <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> | <span style="font-size: 1.5em; white-space: nowrap;">★★★★☆</span> |
 </div>
 
 ## Recipe
 
 **Ingredients for a 24-oz pint:**
-- Earl grey (3 tea bags)
+- Earl Grey (3 tea bags)
 - Milk, 2% fat, ultra-filtered (2 cups)
 - Lychee, fresh (215 g / ~10)
 - Salt (&frac18; tsp)
 - Monkfruit sweetner with allulose (&frac14; cup)
 - Xanthan gum (&frac14; tsp)
 - Lemon juice (1 tsp)
-- Granola, maple almond butter (&frac14; cup)
 
 **Instructions:**
-1. Steep the earl grey tea bags in milk over medium heat for ~15 minutes.
+1. Steep the Earl Grey tea bags in milk over medium heat for ~15 minutes.
 2. Remove the tea bags and let the mixture cool.
-3. Blend everything except granola together.
+3. Blend everything together.
 4. Freeze for 24 hours.
-5. Spin on LITE ICE CREAM (push down and re-spin if needed).
-6. *Optional:* Add in granola and spin on MIX-IN.
+5. Spin on ICE CREAM (push down and re-spin with a splash of milk if needed).
 
 ## Nutrition Facts
 
@@ -72,8 +68,12 @@ toc: true
 
 ## Reflections
 
-**Overall Rating:** <span style="font-size: 1.5em;">★★★★★</span>
+**Overall Rating:** <span style="font-size: 1.5em;">★★★★☆
+
+Summer is the season of fresh fruits and lychees are one of my all time favourites! The combination of the bergamot in Earl Grey and the fresh florals in lychee is such a bubble tea classic. IYKYK!
 
 **The Good (what went well):**
+- Layers of flavour: The bright florals of the lychee hits strong upfront, followed by the deeper and richer Earl Grey tea. Steeping the tea was definitely worth the effort!
 
 **The Bad (lessons learned):**
+- Icy texture: There's not enough body in this recipe. Lychees are mostly water and there's just not a lot of substance holding it together. Add more fat or stabilizers next time.
