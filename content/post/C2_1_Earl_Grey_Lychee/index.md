@@ -25,6 +25,7 @@ tags:
     - Macros-4
     - Ease-4
     - Overall-4
+    - Celine's Choice
 toc: true
 ---
 
@@ -70,7 +71,7 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★★☆
 
-Summer is the season of fresh fruits and lychees are one of my all time favourites! The combination of the bergamot in Earl Grey and the fresh florals in lychee is such a bubble tea classic. IYKYK!
+Summer is the season of fresh fruits and lychees are one of my all time favourites! The combination of the bergamot in Earl Grey and the fresh florals in lychee is such a bubble tea classic. IYKYK! Another one for Celine's Choice.
 
 **The Good (what went well):**
 - Layers of flavour: The bright florals of the lychee hits strong upfront, followed by the deeper and richer Earl Grey tea. Steeping the tea was definitely worth the effort!

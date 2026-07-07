@@ -51,7 +51,7 @@ toc: true
 **Ingredients for a 24-oz pint:**
 - Purple sweet potato (2 medium / 342 g)
 - Coconut milk, unsweetened (200 ml)
-- Milk, 0% fat, ultra-filtered (&frac23; cups)
+- Milk, 0% fat, ultra-filtered (&frac23; cup)
 - Salt (&frac14; tsp)
 - Monkfruit sweetner with allulose (&frac13; cup)
 - Vanilla extract, pure (1 tsp)
@@ -70,7 +70,7 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★☆☆</span>
 
-Okay, first things first, purple sweet potato and ube are not the same thing! Ube grows on a vine and has bark-like skin while sweet potatoes are tubers that grow underground. However, I think this was a really close attempt! Another one for Zebby's Pick. The rich, roasted, starchy undertones of the sweet potato was suprisingly comforting.
+Okay, first things first, I know purple sweet potato and ube are not the same thing! Ube grows on vine and has bark-like skin while sweet potatoes are tubers that grow underground. However, I think this was a really close attempt! Another one for Zebby's Pick. The rich, roasted, starchy undertones of the sweet potato was suprisingly comforting.
 
 **The Good (what went well):**
 - Vanilla: Brought a subtle sweetness that mimicked the natural fragrance of ube.
