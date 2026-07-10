@@ -26,6 +26,7 @@ tags:
     - Ease-4
     - Overall-4
     - Celine's Choice
+    - Zebby's Pick
 toc: true
 ---
 
@@ -70,7 +71,7 @@ toc: true
 
 **Overall Rating:** <span style="font-size: 1.5em;">★★★★☆</span>
 
-Absolutely WOW! It's refreshing, satiating, and oh so satisfying! We won't look at the macros for this one—it's a well deserved treat.
+Absolutely WOW! It's refreshing, satiating, and oh so satisfying! We won't look at the macros for this one—it's a well deserved treat. This one is making Celine's Choice and Zebby's Pick!
 
 **The Good (what went well):**
 - Load up the mangoes: The tropical mango flavour really came through! About half the pint was filled with mangoes before blending.

@@ -21,7 +21,7 @@ tags:
     - Allulose
     - Vanilla Extract
     - Spin-ICE CREAM
-    - Taste-4
+    - Taste-4.5
     - Macros-1.5
     - Ease-3
     - Overall-3

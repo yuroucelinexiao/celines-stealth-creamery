@@ -55,7 +55,7 @@ toc: true
 **Ingredients for a 24-oz pint:**
 - Sesame seeds, black, roasted (60 g)
 - Milk, 0% fat, ultra-filtered (1 &frac12; cups)
-- Miso, white, reduced-sodium (2 tsp)
+- Miso, white, reduced-sodium (2 tsps)
 - Silken tofu (150 g)
 - Sesame oil (&frac12; tsp)
 - Almond Extract (&frac14; tsp)
