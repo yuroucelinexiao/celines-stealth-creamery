@@ -53,7 +53,7 @@ toc: true
 - Mango, fresh (3 medium / 259 g)
 - Coconut milk, unsweetened (200 ml)
 - Coconut Melona (1 bar)
-- Cream cheese, light (4 tbsps)
+- Cream cheese, light (&frac14; cup)
 - Milk, 2% fat, ultra-filtered (&frac13; cup)
 - Salt (&frac58; tsp)
 - Monkfruit sweetner with allulose (&frac14; cup)
