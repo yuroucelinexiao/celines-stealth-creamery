@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/p/e3-1-roasted-campfire/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/b1-2-strawberry-cheesecake/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/c3-1-coffee-date/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,24 +63,105 @@
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/allulose/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cafe/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/brown-sugar/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ease-/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/explorations/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ginger/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jujube-dates/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macros-/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/monkfruit-sweetner/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/overall-/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/silken-tofu/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soy-milk/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spin-lite-ice-cream/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taste-4/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/white-miso/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/bakery/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cottage-cheese/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cream-cheese/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ease-4/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lemon-juice/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macros-3.5/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/milk/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/overall-4/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/salt/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/strawberry/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taste-3.5/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vanilla-extract/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/xanthan-gum/</loc>
+    <lastmod>2026-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cafe/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/celines-choice/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/date/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ease-4/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/espresso/</loc>
@@ -86,40 +173,13 @@
     <loc>http://localhost:1313/tags/macros-5/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/milk/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/overall-5/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/spin-lite-ice-cream/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/taste-4.5/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vanilla-extract/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/white-miso/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/xanthan-gum/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/bakery/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/coconut/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cream-cheese/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/macros-0.5/</loc>
@@ -129,15 +189,6 @@
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/melona/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/monkfruit-sweetner/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/overall-4/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/salt/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spin-ice-cream/</loc>
@@ -152,16 +203,10 @@
     <loc>http://localhost:1313/tags/earl-grey/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lemon-juice/</loc>
-    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/lychee/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/macros-4/</loc>
-    <lastmod>2026-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/taste-4/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/banana/</loc>
@@ -179,9 +224,6 @@
     <loc>http://localhost:1313/tags/whey-protein/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cottage-cheese/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/instant-pudding/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -191,28 +233,7 @@
     <loc>http://localhost:1313/tags/pistachio/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/taste-3.5/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/brown-sugar/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ease-2/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/explorations/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ginger/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jujube-dates/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/silken-tofu/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/soy-milk/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ease-5/</loc>
@@ -246,9 +267,6 @@
     <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/egg-yolk/</loc>
-    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/macros-3.5/</loc>
     <lastmod>2026-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sweet-corn/</loc>
@@ -306,9 +324,6 @@
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lotus-biscoff/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/strawberry/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/applesauce/</loc>
