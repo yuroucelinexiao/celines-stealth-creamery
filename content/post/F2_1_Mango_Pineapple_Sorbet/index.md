@@ -6,7 +6,7 @@ slug: f2-1-mango-pineapple-sorbet
 image: f2_1.png
 comments: false
 draft: false
-hide_from_list: false
+hide_from_list: true
 readingtime: false
 weight: 10
 categories:
@@ -46,7 +46,7 @@ toc: true
 - Pineapple, frozen (400 g)
 
 **Instructions:**
-1. Pour ingredients into the pint, make sure the mango juice covers the pineapples and the total volume stays under the max-fill line 
+1. Pour ingredients into the pint, make sure the mango juice covers the pineapples and the total volume stays under the max-fill line.
 2. Freeze for 24 hours.
 3. Spin on SORBET (push down and re-spin if needed).
 

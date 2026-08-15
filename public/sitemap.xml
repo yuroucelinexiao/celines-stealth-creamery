@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/p/f2-2-mango-pineapple-sorbet/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/b1-3-strawberry-cheesecake/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -66,15 +69,45 @@
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ease-5/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/fruity/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macros-1/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mango/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/overall-3/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pineapple/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spin-sorbet/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taste-4.5/</loc>
+    <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/allulose/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/bakery/</loc>
-    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cheesecake/</loc>
@@ -107,9 +140,6 @@
     <loc>http://localhost:1313/tags/overall-4/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/salt/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -117,9 +147,6 @@
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/strawberry/</loc>
-    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/taste-4/</loc>
@@ -152,9 +179,6 @@
     <loc>http://localhost:1313/tags/macros-3/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/overall-3/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/white-miso/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,16 +209,10 @@
     <loc>http://localhost:1313/tags/overall-5/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/taste-4.5/</loc>
-    <lastmod>2026-07-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/coconut/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/macros-0.5/</loc>
-    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mango/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/melona/</loc>
@@ -250,21 +268,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/soy-milk/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ease-5/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/fruity/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/macros-1/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pineapple/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/spin-sorbet/</loc>
-    <lastmod>2026-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/honey/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
