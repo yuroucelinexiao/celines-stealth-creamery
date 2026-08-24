@@ -58,7 +58,7 @@ toc: true
 - Miso, white, reduced-sodium (2 tsps)
 - Silken tofu (150 g)
 - Sesame oil (&frac12; tsp)
-- Almond Extract (&frac14; tsp)
+- Almond extract (&frac14; tsp)
 - Salt (&frac18; tsp)
 - Honey (1 tbsp)
 - Monkfruit sweetner with allulose (&frac14; cup)
