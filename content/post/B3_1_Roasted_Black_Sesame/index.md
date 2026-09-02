@@ -1,11 +1,11 @@
 ---
 title: B3.1 Roasted Black Sesame
-description: I have mixed feelings about this one. The roasted sesame flavour and aroma was amazing, but it had a gummy texture and wet-earth 🌱 aftertaste. The concept was good but execution was poor. Improvements to come.  Taste - 3/5★
+description: I have mixed feelings about this one. The roasted sesame flavour and aroma was amazing, but it had a gummy texture and wet-earth 🌱 aftertaste. The concept was good but execution was poor. Improvements to come. Taste - 3/5★
 date: 2026-05-25
-slug: b3-1-toasted-sweet-corn-pudding
+slug: b3-1-roasted-black-sesame
 image: b3_1.png
 comments: false
-hide_from_list: false
+hide_from_list: true
 readingtime: false
 draft: false
 weight: 10
