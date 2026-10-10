@@ -12,13 +12,16 @@ weight: 10
 categories:
     - Fruity
 tags:
-    - Banana
+    - Peach
+    - Coconut Water
+    - Honey
     - Salt
+    - Lemon Juice
     - Spin-SORBET
     - Taste-3.5
-    - Macros-1
-    - Ease-5
-    - Overall-4
+    - Macros-2
+    - Ease-4
+    - Overall-3
 toc: true
 ---
 
